@@ -6,9 +6,7 @@
   "homepage": "https://EmmsKarimi.github.io/portfolio-website-2026-",
   "scripts": {
     "build": "vite build",
-    "dev": "vite",
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d dist"
+    "dev": "vite"
   },
   "dependencies": {
     "@emotion/react": "11.14.0",
